@@ -1,6 +1,6 @@
-# Data Backup Bundle
+# Data Bundle
 
-This repository keeps the runnable script bundle for the main final-target experiment. The cleaned final data archive is distributed separately and is not tracked in Git.
+This repository stores the runnable script package used for the experiments.
 
 ## Contents
 - `scripts/`: minimal runnable code bundle for the main experiment.
@@ -12,7 +12,6 @@ The cleaned final experiment archive and extracted runtime data are available vi
 - files provided there:
   - `final_target_20260311.tar.gz`
   - `final_target_20260311.tar.gz.sha256`
-- this repository does not track the archive itself or the extracted `scripts/experiment_videos/` data directory
 
 ## Video Download
 The experiment videos are distributed separately via OneDrive:
